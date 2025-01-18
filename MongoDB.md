@@ -14,4 +14,14 @@ db.collection.insertOne( { item: "card", qty: 15 } );
       { item: "envelope", qty: 20 },  
       { item: "stamps" , qty: 30 }  
    ] );
+**Return** 
+{
+   "acknowledged" : true,
+   "insertedIds" : [
+      ObjectId("562a94d381cb9f1cd6eb0e1a"),
+      ObjectId("562a94d381cb9f1cd6eb0e1b"),
+      ObjectId("562a94d381cb9f1cd6eb0e1c")
+   ]
+}
+   
 
