@@ -1,4 +1,4 @@
-print("Python list functions \n----------------------------\n")
+## Python list functions
 
 # list
 print("my list is \n")
