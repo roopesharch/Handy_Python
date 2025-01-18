@@ -1,7 +1,7 @@
 ## Python list functions
 
 # list
-print("my list is \n")
+print("my list is \n") \n
 lst=[1,2,3,4,5]
 print(lst)
 # remve with item
