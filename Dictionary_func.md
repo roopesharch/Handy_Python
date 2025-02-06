@@ -81,7 +81,7 @@ country_capitals['mars']='solar'
 print(country_capitals)  
   
   
-#sort dictionary by val and key  
+# sort dictionary by val and key  
 a = sorted(dict_name.items(), key=lambda x:x[0]) # by Key  
 a = sorted(dict_name.items(), key=lambda x:x[1]) # by Value  
 
