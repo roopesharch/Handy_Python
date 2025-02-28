@@ -7,7 +7,8 @@
 **Import and Module**	import, from, as  
 **Scope and Namespace**	global, nonlocal  
 **Async Programming**	async, await  
-
+# Biginer
+*args and **kwargs  
 # OOPS
 # Intermediate
 # Advance
