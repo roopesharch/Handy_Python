@@ -9,6 +9,8 @@
 **Async Programming**	async, await  
 # Biginer
 *args and **kwargs  
+Decorators  
+
 # OOPS
 # Intermediate
 # Advance
